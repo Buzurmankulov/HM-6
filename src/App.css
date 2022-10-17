@@ -1,0 +1,7 @@
+.App{
+    background-color: rgb(229, 255, 0);
+    width: 200px;
+    height: 150px;
+    margin: auto;
+    border: 2px solid;
+}
